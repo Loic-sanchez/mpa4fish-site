@@ -8,7 +8,7 @@ permalink: /about/
 
 MPA4Fish: Socio-ecological planning of no-fishing Marine Protected Areas to benefit fisheries
 
-MP4Fish is a BiodivTransform project aiming to promote fishermen* agency in tackling the decline in fisheries stocks and the loss of biodiversity through the creation of no-take Marine Protected Areas (MPAs). The project started in April 2026 and unites partners from 10 countries: Brazil, France, Iceland, Italy, Norway, South Africa, Spain, Sweden, Tunisia, and Turkey.
+MPA4Fish is a BiodivTransform project aiming to promote fishermen* agency in tackling the decline in fisheries stocks and the loss of biodiversity through the creation of no-take Marine Protected Areas (MPAs). The project started in April 2026 and unites partners from 10 countries: Brazil, France, Iceland, Italy, Norway, South Africa, Spain, Sweden, Tunisia, and Turkey.
 
 The project will span from global and regional studies to identify optimal areas for the creation of no-take MPAs that would benefit fisheries & biodiversity. A series of local case studies will then collaborate with local fishermen to include them in the process of designating protected areas. 
 
@@ -37,7 +37,7 @@ Ensure all project outputs are openly accessible, and train the next generation 
 
 ## Scientific Approach
 
-MP4Fish combines cutting-edge genomic technologies with long-term ecological datasets and advanced statistical modelling. All data produced within the project will be made publicly available through established repositories (NCBI, PANGAEA, GBIF) in compliance with the FAIR data principles.
+MPA4Fish combines cutting-edge genomic technologies with long-term ecological datasets and advanced statistical modelling. All data produced within the project will be made publicly available through established repositories (NCBI, PANGAEA, GBIF) in compliance with the FAIR data principles.
 
 ---
 
