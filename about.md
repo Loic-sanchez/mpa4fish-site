@@ -6,9 +6,13 @@ permalink: /about/
 
 ## Overview
 
-MP4Fish (Molecular Physiology, Population Genetics & Sustainable Management of Fish) is a four-year collaborative research project funded by the European Commission under the Horizon Europe framework. The project started in January 2024 and unites expertise from marine biology, molecular ecology, genomics, bioinformatics, and fisheries science.
+MPA4Fish: Socio-ecological planning of no-fishing Marine Protected Areas to benefit fisheries
 
-The project targets several ecologically and commercially important fish species in European Atlantic and Arctic waters, including Atlantic cod (*Gadus morhua*), European anchovy (*Engraulis encrasicolus*), and European eel (*Anguilla anguilla*).
+MP4Fish is a BiodivTransform project aiming to promote fishermen* agency in tackling the decline in fisheries stocks and the loss of biodiversity through the creation of no-take Marine Protected Areas (MPAs). The project started in April 2026 and unites partners from 10 countries: Brazil, France, Iceland, Italy, Norway, South Africa, Spain, Sweden, Tunisia, and Turkey.
+
+The project will span from global and regional studies to identify optimal areas for the creation of no-take MPAs that would benefit fisheries & biodiversity. A series of local case studies will then collaborate with local fishermen to include them in the process of designating protected areas. 
+
+*: We use the term fishermen because the term 'fishers' may offend some fishing women, see [Loomis 2015](https://hakaimagazine.com/news/fishers-or-fishermen-which-right/). 
 
 ---
 
