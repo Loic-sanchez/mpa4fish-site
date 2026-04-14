@@ -4,7 +4,7 @@ description: >-
 baseurl: ""
 url: "https://Loic-sanchez.github.io"
 
-theme: Cayman
+theme: cayman
 
 author:
   name: MP4Fish Consortium
