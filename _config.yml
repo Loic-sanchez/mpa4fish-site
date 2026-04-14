@@ -1,4 +1,4 @@
-title: MP4Fish
+title: MPA4Fish
 description: >-
   A BiodivTransform funded project aiming to foster fishermen agency in the creation of Marine Protected Areas.
 baseurl: ""
@@ -7,7 +7,7 @@ url: "https://Loic-sanchez.github.io"
 remote_theme: pages-themes/cayman@v0.2.0
 
 author:
-  name: MP4Fish Consortium
+  name: MPA4Fish Consortium
 
 nav_pages:
   - title: Home
