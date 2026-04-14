@@ -3,28 +3,21 @@ layout: default
 title: Home
 ---
 
-# Welcome to MP4Fish
+# MPA4Fish
 
-**Molecular Physiology, Population Genetics & Sustainable Management of Fish**
+**Socio-ecological planning of no-fishing Marine Protected Areas to benefit fisheries**
 
-MP4Fish is a European research initiative funded under the Horizon Europe programme (2024–2028), bringing together leading research institutions across six countries to advance our understanding of fish biology, genomics, and ecology — and to translate that knowledge into actionable tools for sustainable fisheries management.
+MPA4Fish is a BiodivTransform project aiming to promote fishermen* agency in tackling the decline in fisheries stocks and the loss of biodiversity through the creation of no-take Marine Protected Areas (MPAs). The project started in April 2026 and unites partners from 10 countries: Brazil, France, Iceland, Italy, Norway, South Africa, Spain, Sweden, Tunisia, and Turkey.
 
----
+The project will span from global and regional studies to identify optimal areas for the creation of no-take MPAs that would benefit fisheries & biodiversity. A series of local case studies will then collaborate with local fishermen to include them in the process of designating protected areas. 
 
-## Why MP4Fish?
-
-Fish stocks across European waters face mounting pressures: climate change, habitat loss, overfishing, and shifting food webs. Managing these populations sustainably requires a deep, mechanistic understanding of how fish adapt, survive, and reproduce — at the molecular, individual, and population level.
-
-MP4Fish bridges the gap between fundamental research and applied fisheries science.
+*: We use the term fishermen because the term 'fishers' may offend some fishing women, see [Loomis 2015](https://hakaimagazine.com/news/fishers-or-fishermen-which-right/). 
 
 ---
 
-## Key Research Areas
+## Why MPA4Fish?
 
-- **Molecular physiology** — How do fish respond to environmental stressors at the cellular and molecular level?
-- **Population genomics** — What is the genetic structure of key commercial and ecologically important species?
-- **Adaptive capacity** — How are populations responding to rapid environmental change?
-- **Management tools** — How can genomic data improve stock assessments and conservation planning?
+Fish stocks are facing a steep declines in the world's oceans, in a context of climate change and large-scale biodiversity loss. Marine Protected Areas are an efficient tool to preserve biodiversity, enhance resilience to climate change, and most importantly to stabilize fisheries. The implementation of these area-based conservation measures may lead to conflicts with local communities when they are not included in the process, further causing political inertia. We aim to shift this paradigm to one where fisheries interests take the lead in advocating to safeguard key areas for fishery resoucres by upgrading existing and proposing new no-take MPAs.
 
 ---
 
@@ -32,15 +25,12 @@ MP4Fish bridges the gap between fundamental research and applied fisheries scien
 
 | | |
 |---|---|
-| **Funding** | Horizon Europe — Grant No. 10100XXXX |
-| **Duration** | January 2024 – December 2028 |
-| **Budget** | €4.2 million |
-| **Partners** | 8 institutions across 6 countries |
-| **Coordinator** | [Institute Name], Norway |
+| **Funding** | BiodivTransform — Grant No. XXXX |
+| **Duration** | April 2026 – April 2029 |
+| **Budget** | €XXX |
+| **Partners** | 12 institutions across 8 countries |
+| **Coordinator** | Nord University, Norway |
 
 ---
-
-> *"Understanding the biology of fish at every scale — from the genome to the ecosystem — is essential for the future of European fisheries."*
-> — Project Coordinator
 
 [Learn more about the project →](/about)
