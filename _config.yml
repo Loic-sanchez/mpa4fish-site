@@ -1,0 +1,27 @@
+title: MP4Fish
+description: >-
+  A European research project on fish molecular physiology,
+  population genomics and sustainable fisheries management.
+baseurl: ""
+url: "https://yourusername.github.io"
+
+theme: minima
+
+author:
+  name: MP4Fish Consortium
+
+nav_pages:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Team
+    url: /team
+  - title: News & Results
+    url: /news
+  - title: Contact
+    url: /contact
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
